@@ -1,4 +1,6 @@
-# Welcome stranger
+# Markdown live preview
+
+## Welcome stranger
 
 This is my first React project.
 I used the dependency `Marked` to convert the content into readable HTML.
