@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Welcome stranger
+
+This is my first React project.
+I used the dependency `Marked` to convert the content into readable HTML.
+I created a simple but modern design, a little bit inspired by the great Visual Studio Code.
+
+I hope you'll enjoy.
+Feedbacks are welcome!
+Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/a-lx/)
+
+---
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
